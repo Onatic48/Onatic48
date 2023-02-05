@@ -1,4 +1,4 @@
-# 💫 About Me:
+#                                              💫 About Me:
 🔭 KartanesiMC Proje Direktörü<br>👯 DBM ve Adobe programlarını kullanabilmek tek vasfım<br>⚡ İletişim için Discord : Onatic#0001 veya mail<br>"We were all human, Psycho. And we all fought. Me, you, Nomad, Jester - all of us. We fought. Not the goddamned nano suits."<br>
 
 
