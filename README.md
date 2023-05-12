@@ -1,9 +1,9 @@
 # 💫 Hakkımda:
-🔭 KartanesiMC Proje Direktörü<br>👯 DBM ve Adobe programlarını kullanabilmek tek vasfım<br>⚡ İletişim için Discord : Onatic#0001 veya mail<br>"We were all human, Psycho. And we all fought. Me, you, Nomad, Jester - all of us. We fought. Not the goddamned nano suits."<br>
+🔭 Karpuzlands Yönetici <br>👯 DBM ve Adobe programlarını kullanabilmek tek vasfım<br>⚡ İletişim için Discord : Onatic#0001 veya mail<br>"We were all human, Psycho. And we all fought. Me, you, Nomad, Jester - all of us. We fought. Not the goddamned nano suits."<br>
 
 
 ## 🌐 Sosyal:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kartanesimc) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCmqLa1LAoCPPVuSqWAF66iQ) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Karpuzlands) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCmqLa1LAoCPPVuSqWAF66iQ) 
 
 # 💻 Yetenekler (!):
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
